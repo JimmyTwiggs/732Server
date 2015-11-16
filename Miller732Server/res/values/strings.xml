@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Miller732Server</string>
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="server1">Server App Welcomes You</string>
 
 </resources>
